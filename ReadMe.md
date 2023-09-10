@@ -9,11 +9,9 @@ Collaborators:
 ## 1. Filtration model
 _________
 
-$
-\frac{\partial\phi\rho_wS_w}{\partial t} - div(\lambda_w\mathbb{K}(\nabla\rho_w - \rho_wg\nabla z)) = q_w$ - equation for water
+$\frac{\partial\phi\rho_wS_w}{\partial t} - div(\lambda_w\mathbb{K}(\nabla\rho_w - \rho_wg\nabla z)) = q_w$ - equation for water
 
-$
-\frac{\partial\phi\rho_oS_w}{\partial t} - div(\lambda_o\mathbb{K}(\nabla\rho_o - \rho_og\nabla z)) = q_o$ - equation for oil
+$\frac{\partial\phi\rho_oS_w}{\partial t} - div(\lambda_o\mathbb{K}(\nabla\rho_o - \rho_og\nabla z)) = q_o$ - equation for oil
 
 $S_w + S_o = 1$ (both liquids fill all pores)
 
