@@ -1,0 +1,12 @@
+2
+INJ1 4010 bhp 4500 injector peacman_vertical
+PROD1 4010 bhp 3100 producer peacman_vertical
+4
+-46.25 -21.25 -100
+-46.25 -21.25 5000
+46.25 21.25 -100
+46.25 21.25 5000
+1
+1 0 1 0.0005 0 1
+1
+1 2 3 0.0005 0 1
