@@ -3,7 +3,7 @@ ________________
 Our university project
 Collaborators: 
 - [Artem Medvedev](https://github.com/artiebears13)
-- [Andrey Donskoy](https://github.com/Donskoy-Andrey) [(web-site)](www.donskow.com)
+- [Andrey Donskoy](https://github.com/Donskoy-Andrey) [(web-site)](https://www.donskow.com/)
 - [Timofey Schudro](https://github.com/TeeMan508)
 
 ## 1. Filtration model
